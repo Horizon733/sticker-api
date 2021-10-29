@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/57827233/139462786-6dc7d06b-fe57-4343-8a15-3222e1f099b5.png" width="120"></p>
 <h1 align="center">Sticker kit REST API</h1>
 <p align="center">Simplified REST API to get stickers from Snap</p>
 
