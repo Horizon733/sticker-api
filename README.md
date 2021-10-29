@@ -71,5 +71,20 @@ requests.post(url=url, headers=headers)
 ```
 
 ## How to get API Token
-- Go to your app, your screen will look like below
+- Go to your app, your screen will look like below.
+<img src="https://user-images.githubusercontent.com/57827233/139457181-683b8baf-ca3f-49d2-a972-8e98033b81d6.png">
+
+- Now, Click on Initial Version, Make sure `Enable` Sticker Kit. It will look like below
+<img src="https://user-images.githubusercontent.com/57827233/139458516-a427412d-82f0-4302-bedb-98eae427d2ec.png">
+
+- Go back to Setup, and Scroll down, you will be able to `API Tokens` copy whichever you want to, 
+  make sure your App is in that Active on that Stage. API Token will look like below.
+<img src="https://user-images.githubusercontent.com/57827233/139459155-e5e0b4be-3183-4ab9-90d8-7f92187e150b.png">
+
+# How to Contribute?
+- Make sure to Read Code of Conduct.
+- Help me to test it with every case, to check it works and doesn't crash.
+- Update Code? Sure, If you find anything helpful to be added please. FYI: This is made just to simplify work of Developers of other languages.
+
+
 
