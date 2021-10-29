@@ -2,6 +2,7 @@ import logging
 from typing import Text, Dict
 
 import requests
+import uvicorn
 from fastapi import FastAPI, Query, Header
 
 from query import search_query, category_query, trending_query
@@ -85,3 +86,7 @@ async def search_stickers(
         sticker_json = json_response
 
     return sticker_json
+
+
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
