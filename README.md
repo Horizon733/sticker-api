@@ -6,7 +6,7 @@
 ## Search stickers
 - Request:
 ```python
-url = "https://sticker-kit-horizon733.cloud.okteto.net?search_text=morning&results_count=1"
+url = "https://sticker-kit-horizon733.cloud.okteto.net/search_stickers?search_text=morning&results_count=1"
 headers = {"api_token": f"Bearer {your-api-token}"}
 requests.post(url=url, headers=headers)
 ```
